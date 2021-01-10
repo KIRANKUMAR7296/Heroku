@@ -1,4 +1,4 @@
-# <img src="Heroku.png" width=5%> Heroku
+# <img src="Heroku.png" width=2%> Heroku
 
 > Cloud Platform
 
@@ -6,9 +6,9 @@
 
 > Build, Run and Operate Applications in the Cloud
 
-## Deploying Streamlit App <img src="Streamlit.png" width=5%>
+## Deploying Streamlit App <img src="Streamlit.png" width=2%>
 
-## Web App is Built in Python <img src="Python.png" width=4%>
+## Web App is Built in Python <img src="Python.png" width=2%>
 
 ### NBA Basketball Player Stats 🏀
 
