@@ -1,4 +1,4 @@
-# <img src="Heroku.png" width=2%> Heroku
+# <img src="Heroku.png" width=3%> Heroku
 
 > Cloud Platform
 
@@ -6,7 +6,7 @@
 
 > Build, Run and Operate Applications in the Cloud
 
-## Deploying Streamlit App <img src="Streamlit.png" width=2%>
+## Deploying Streamlit App <img src="Streamlit.png" width=3%>
 
 ## Web App is Built in Python <img src="Python.png" width=2%>
 
