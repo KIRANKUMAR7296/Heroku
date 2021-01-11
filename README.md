@@ -10,7 +10,7 @@
 
 ## Web App is Built in Python <img src="Python.png" width=2%>
 
-### NBA Basketball Player Stats 🏀
+### NBA Basketball Player Stats 🏀 [NBA Streamlite](https://nba-streamlit.herokuapp.com/)
 
 Libraries Used :
 
