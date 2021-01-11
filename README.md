@@ -6,11 +6,13 @@
 
 > Build, Run and Operate Applications in the Cloud
 
-## Deploying Streamlit App <img src="Streamlit.png" width=3%>
+## Deploying Streamlit App <img src="Streamlit.png" width=3%> 
+
+[NBA Streamlite](https://nba-streamlit.herokuapp.com/)
 
 ## Web App is Built in Python <img src="Python.png" width=2%>
 
-### NBA Basketball Player Stats 🏀 [NBA Streamlite](https://nba-streamlit.herokuapp.com/)
+### NBA Basketball Player Stats 🏀 
 
 Libraries Used :
 
